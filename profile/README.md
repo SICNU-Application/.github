@@ -30,27 +30,9 @@
 - 【腾讯文档】飞跃手册意见征集表 -i（待创建
 - QQ群: 745564057 (川师大飞跃手册交流群)
 
-## 友情链接
-
-[南方科技大学飞跃手册](https://sustech-application.com/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c)
-
-[安徽大学飞跃手册](https://www.ahu.wiki/#/)
-
-[上海交通大学飞跃手册](https://survivesjtu.github.io/SJTU-Application/#/)
-
-[南京工业大学飞跃手册](https://github.com/yaoshun123/FLY_NJTech)
-
-[一亩三分地--北美申请论坛](http://www.1point3acres.com/)
-
-<br>
-
 ## 支持与备案信息
 [蜀ICP备2023031867号](https://beian.miit.gov.cn/#/Integrated/index)<br>
 <!-- <span id="sitetime"></span><br> -->
 <span>Copyright©2022-present.</span>
 <span>[Powered by docsify.](https://github.com/docsifyjs/docsify)</span>
-<br>
-
-
-!> 移动端访问请点击`左下角菜单栏` <strong><font color="42B983"> ≡ </font> </strong>展开菜单，祝阅读愉快！
 <br>
