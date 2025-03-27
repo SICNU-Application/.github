@@ -1,4 +1,3 @@
-# .github
 # 飞跃手册-川师大[Sicnuwiki](https://www.sicnuwiki.com)
 
 ## 飞跃手册-川师大 是什么？
